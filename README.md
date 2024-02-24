@@ -9,6 +9,3 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricotandrio&layout=compact&langs_count=8" />
   </a>
 </div>
-
-## Visitor Counter
-<img src="https://moe-counter.glitch.me/get/@ricotandrio.github.readme"/>

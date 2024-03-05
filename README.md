@@ -37,27 +37,6 @@
 
 <br />
 
-## 👩‍💻  About Me</h3>
-
-<div align="left">
-<a href="https://ricotandrio.me/about" target="_blank">
-  <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" height="35"/>
-</a>
-<a href="https://ricotandrio.me/about" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-</a>
-<a href="https://ricotandrio.me/about" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</a>
-</div>
-
-###
-
-<br clear="both">
-
 <div align="left">
 <img src="https://firebasestorage.googleapis.com/v0/b/firestore-file-deployment.appspot.com/o/github-user-contribution.svg?alt=media&token=b141a1d1-a402-49ab-a744-4197c86f27bb" />
-  
-</div>
-
-###
+ 

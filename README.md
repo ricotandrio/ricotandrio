@@ -32,11 +32,3 @@
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="35" /></a>  
 </div>  
 
-
-###
-
-<br />
-
-<div align="left">
-<img src="https://firebasestorage.googleapis.com/v0/b/firestore-file-deployment.appspot.com/o/github-user-contribution.svg?alt=media&token=b141a1d1-a402-49ab-a744-4197c86f27bb" />
- 

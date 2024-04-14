@@ -1,6 +1,3 @@
-# Hi there 👋 I'm Rico
-<br/>
-
 ## 🛠 Language and Tools
 
 <div align="left">  

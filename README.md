@@ -1,17 +1,4 @@
-<h2 align="left">Hey 👋 What's up ?</h2>
-<br />
-<br/>
-<div>
-  <a>
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ricotandrio" />
-  </a>
-  <a>
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricotandrio&layout=compact&langs_count=8" />
-  </a>
-</div>
-
-###
-
+# Hi there 👋 I'm Rico
 <br/>
 
 ## 🛠 Language and Tools
@@ -32,3 +19,14 @@
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="35" /></a>  
 </div>  
 
+<br/>
+
+## 🔥 Github Stats
+<div>
+  <a>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ricotandrio" />
+  </a>
+  <a>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricotandrio&layout=compact&langs_count=8" />
+  </a>
+</div>
